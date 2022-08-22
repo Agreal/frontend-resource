@@ -25,7 +25,15 @@
 ### 进阶
 * [You need to know css](https://lhammer.cn/You-need-to-know-css/)
 
+
 ## 其他资源
 
+### 设计
+* [重构与clean code](https://refactoringguru.cn/refactoring)
+* [设计模式](https://refactoringguru.cn/design-patterns)
+
+### 工具
 * [caniuse](https://caniuse.com/)
+
+### 其他
 * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
