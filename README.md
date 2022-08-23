@@ -12,6 +12,7 @@
 
 ### 进阶
 * [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
+* [ES6 In Depth Articles - Mozilla](https://hacks.mozilla.org/category/es6-in-depth/)
 * [TypeScript 全面解析 - B站](https://www.bilibili.com/video/BV1ig411k7pf), 视频
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
