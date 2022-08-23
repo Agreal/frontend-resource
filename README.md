@@ -35,6 +35,8 @@
 
 ### 工具
 * [caniuse](https://caniuse.com/)
+* [playcode](https://playcode.io/), 在线编辑器, 速度快
+* [stackblitz](https://stackblitz.com/), 在线编辑器, 功能全
 
 ### 其他
 * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
