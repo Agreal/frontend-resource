@@ -41,3 +41,4 @@
 
 ### 其他
 * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+* [如何阅读一本书](https://github.com/PennYoungHoang/books/blob/master/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
